@@ -19,7 +19,7 @@
 // NYILATKOZAT
 // ---------------------------------------------------------------------------------------------
 // Nev    : Szalka Panka
-// Neptun : RITH1H
+// Neptun : 
 // ---------------------------------------------------------------------------------------------
 // ezennel kijelentem, hogy a feladatot magam keszitettem, es ha barmilyen segitseget igenybe vettem vagy
 // mas szellemi termeket felhasznaltam, akkor a forrast es az atvett reszt kommentekben egyertelmuen jeloltem.
@@ -109,7 +109,7 @@ const char* fragmentSource = R"(
 		return true;
 	}
 
-	// Csala Balint fele konzin hangzottal el az ehhez tartozo kepletek (t1 és t2 kiszamitasa a,b,c szamokbol
+	// Csala Balint fele konzin hangzottal el az ehhez tartozo kepletek (t1 ï¿½s t2 kiszamitasa a,b,c szamokbol
 	Hit intersectHyperboloid(const Ray ray, Hit hit, int mat) {
 		
 		float a = 2.4;
